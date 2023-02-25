@@ -1,0 +1,10 @@
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\bin\Debug\EnalogClock.exe.config
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\bin\Debug\EnalogClock.exe
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\bin\Debug\EnalogClock.pdb
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.csproj.AssemblyReference.cache
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.Form1.resources
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.Properties.Resources.resources
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.csproj.GenerateResource.cache
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.exe
+C:\Users\Bootcamp\source\repos\EnalogClock\EnalogClock\obj\Debug\EnalogClock.pdb
